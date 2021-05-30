@@ -17,4 +17,4 @@ spring:
       ddl-auto: none
 
 application:
-  description: Projeto criado durante o Santander Dev Week
+  description: Projeto criado durante o Santander Dev Week (backend)
